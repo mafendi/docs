@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Alpha",
   "colors": {
-    "primary": "blue",
-    "light": "white",
-    "dark": "red"
+    "primary": "#fff",
+    "light": "#fff",
+    "dark": "#fff"
   },
   "favicon": "/favicon.svg",
   "navigation": {
