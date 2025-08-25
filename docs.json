@@ -3,15 +3,15 @@
   "theme": "mint",
   "name": "Alpha",
   "colors": {
-    "primary": "#fff",
-    "light": "#fff",
-    "dark": "#fff"
+    "primary": "#16A34A",
+    "light": "#07C983",
+    "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Alice",
         "groups": [
           {
             "group": "Getting started",
@@ -22,7 +22,7 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Wonderland",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
