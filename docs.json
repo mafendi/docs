@@ -5,6 +5,10 @@
   "appearance": {
     "default": "light"
   },
+  "banner": 
+  {
+  "content": "🚀 Banner is live! [Learn more](mintlify.com)"
+  },
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
